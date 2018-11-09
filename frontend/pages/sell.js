@@ -1,9 +1,8 @@
-// import { react } from "react";
-import Link from "next/link";
+import CreateItem from "../components/CreateItem";
 
 const Sell = props => (
   <div>
-    <h1>Selling here!</h1>
+    <CreateItem />
   </div>
 );
 
